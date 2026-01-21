@@ -24,7 +24,6 @@ The Vortex Panel Method is a numerical technique for solving 2D incompressible, 
 ├── writeSTL_ASCII.m # Write mesh to ASCII STL
 └── README.md # (This file)
 
-
 ---
 
 ## 🚀 Quick Start
@@ -39,11 +38,8 @@ The Vortex Panel Method is a numerical technique for solving 2D incompressible, 
 1. **Open MATLAB**
 2. Set the repository folder as the current working directory.
 3. Run the main script to compute aerodynamic results. For example:
-
-```matlab
 runNACA4Vortex
-
-Results such as pressure coefficient (Cp) and lift coefficient (Cl) will be generated and plotted.
+4. Results such as pressure coefficient (Cp) and lift coefficient (Cl) will be generated and plotted.
 
 📌 What It Does
 
