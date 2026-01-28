@@ -1,4 +1,4 @@
-# Vortex Panel Method for Profile NACA
+# Vortex Panel Method for Wing using NACA Profile
 
 This repository implements the **Vortex Panel Method** in **MATLAB** for analyzing the potential flow around NACA airfoil profiles and computing aerodynamic quantities such as **pressure distribution**, **lift**, and **aerodynamic coefficients**.
 
